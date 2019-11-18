@@ -1,7 +1,7 @@
 const button = document.getElementById('button')
-import click from './game'
 
 // const click = require('click')
+import click from './game'
 
 button.addEventListener('click', function(event) {
   click();

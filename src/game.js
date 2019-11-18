@@ -14,6 +14,6 @@ const click = () => {
   if(numTimesClicked === 5) win();
 }
 
+// module.export = click
 export default click
 
-// module.export = click
